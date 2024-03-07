@@ -1,0 +1,66 @@
+body{background-color: rgb(56, 52, 52);
+}
+h1{background-color: black;
+  border: double 10px cornsilk;
+  margin:0 25px;
+  padding: 10px 0px 100px 25px;
+  color: black;
+  font-size: 75px;
+  font-family: 'Brush Script MT', cursive;
+    -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: cornsilk;
+}
+ a{
+  color: white;
+  font-size: 17px;
+  font-family: Georgia, serif;
+  background-color: black;
+  border: solid 2px white;
+  -webkit-text-stroke-width: 0;
+  padding: 5px;
+  position: relative;
+  left: 725px;
+  bottom: 50px;
+} 
+a:hover{
+  color: black;
+  background-color: white;
+  font-weight: bold;
+}
+h2{
+  font-family: 'Brush Script MT', cursive;
+  font-size: 37px;
+  border-bottom: solid 2px;
+}
+.light{
+  text-align: center;
+  color: black;
+  font-family: Georgia, serif;
+  font-weight: bold;
+  background-color: blanchedalmond;
+  margin: 10px 25px;
+  padding: 0px 25px 15px 25px;
+  border: double 10px black;
+}
+.dark{
+  text-align: center;
+  color: blanchedalmond;
+  font-family: Georgia, serif;
+  font-weight: bold;
+  background-color: black;
+  margin: 10px 25px;
+  padding: 0px 25px 15px 25px;
+  border: double 10px blanchedalmond;
+}
+
+.darksign{
+  text-align: center;
+  color: blanchedalmond;
+  font-family: Georgia, serif;
+  font-weight: bold;
+  background-color: black;
+  margin: 10px 100px 0px 100px;
+  padding: 0px 25px 15px 25px;
+  border: double 10px blanchedalmond;
+}
+
