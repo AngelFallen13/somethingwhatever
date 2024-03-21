@@ -70,7 +70,7 @@ h2{
 }
 h3{
   color: black;
-  font-size: 50px;
+  font-size: 70px;
     -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: white;
 }
@@ -85,6 +85,7 @@ input{
   padding:5px 0;
 }
 .signcontent{
+  margin-top: -25px;
   position: relative;
-  right: 125px;
+  right: auto;
 }
