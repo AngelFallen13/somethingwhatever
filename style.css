@@ -60,17 +60,7 @@ h2{
 h3{
   background-color: black;
   color: black;
-  font-size: 50px;
+  font-size: 75px;
     -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: white;
-}
-.signbuttons{
-  margin-bottom: 100px;
-}
-.inputtext{
-  margin-bottom: 50px;
-}
-input{
-  margin-bottom: 7px;
-  padding:5px 0;
 }
