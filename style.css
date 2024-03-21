@@ -9,6 +9,17 @@ h1{background-color: black;
     -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: white;
 }
+.logo{
+  font-family: "Dancing Script", cursive;
+  color: black;
+  font-size: 77px;
+    -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  position:relative;
+  bottom: 90px;
+  text-align: start;
+  float: left;
+}
  a{
   color: white;
   font-size: 17px;
@@ -58,7 +69,6 @@ h2{
   border: double 10px white;
 }
 h3{
-  background-color: black;
   color: black;
   font-size: 50px;
     -webkit-text-stroke-width: 2px;
@@ -73,4 +83,8 @@ h3{
 input{
   margin-bottom: 7px;
   padding:5px 0;
+}
+.signcontent{
+  position: relative;
+  right: 125px;
 }
