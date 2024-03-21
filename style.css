@@ -3,9 +3,9 @@ body{background-color: rgb(56, 52, 52);
 h1{background-color: black;
   border: double 10px white;
   margin:0 25px;
-  padding: 10px 0px 100px 25px;
+  padding: 10px 0px 85px 25px;
   color: black;
-  font-size: 75px;
+  font-size: 100px;
     -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: white;
 }
